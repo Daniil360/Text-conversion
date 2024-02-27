@@ -8,3 +8,5 @@ const qwerty6 = "New file"
 const qwerty7 = "New file"
 const qwerty8 = "New file"
 const qwerty9 = "New file"
+
+const qwerty10 = "New file"
