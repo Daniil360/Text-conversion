@@ -7,3 +7,6 @@ const object = {
 }
 
 console.log(object)
+
+const array = [1, 2, 3, 4]
+console.log(array)
