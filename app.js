@@ -9,5 +9,5 @@ const btnSpeak = document.querySelector("#speak");
 const txtMessage =document.querySelector("#message");
 
 btnSpeak.addEventListener("click", () => {
-    speak(txtMessage.value)
+    speak(txtMessage.value);
 });
