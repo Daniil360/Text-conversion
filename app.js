@@ -1,3 +1,5 @@
+
+
 function speak(text) {
     const message = new SpeechSynthesisUtterance();
     message.lang = "ru-RU";
